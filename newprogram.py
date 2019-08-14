@@ -6,7 +6,7 @@ print ("Hello! Nice to meet you,", name)
 print ("The purpose of this program is to help you determine the best products for your hair type.")
 print ("Natural hair is extremely diverse, so not everyone will have the same needs.  Let's get started!")
 
-hair = input"(What is your curl type: 2, 3, or 4?")
+hair = input("What is your curl type: 2, 3, or 4?")
 hair = int(hair)
 if hair == 3:
     print ("You might want to try a light moisture milk by Shea Moisture.")
