@@ -22,3 +22,8 @@ elif porosity == "low":
     print ("Low porosity needs heat to absorb moisture. Use a steamer or hooded dryer.")
 elif porosity == "medium":
     print ("You won the hair lottery! Alternate between heat and protein regularly.")
+
+dry = input("Does yor hair feel dry if you wash it once a week?")
+if frequency =- "yes"
+    print ("Consider washing yor hair every two weeks instead. Washing too frequently strips it of moisture."
+)
