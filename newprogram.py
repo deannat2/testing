@@ -25,5 +25,6 @@ elif porosity == "medium":
 
 dry = input("Does yor hair feel dry if you wash it once a week?")
 if frequency =- "yes"
-    print ("Consider washing yor hair every two weeks instead. Washing too frequently strips it of moisture."
-)
+    print ("Consider washing yor hair every two weeks instead. Washing too frequently strips it of moisture.")
+elif porosity == "no"
+    print ("Great! Continue with your current routine.")
